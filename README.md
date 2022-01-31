@@ -1,8 +1,7 @@
-This is a series of internet riddles - l'énigme-internet wich I make initially for my fiance.
+This is the very first episode...
+To begin just dowload this misterious PDF and enjoy the enigma ;)
 
-The main purpose is to create more fun and engaging way to practice programming and/or spend time with pleasure. 
+[Quête mystérieuse.pdf](https://github.com/ArsenZv/l-enigme-internet/raw/01-episode/01-l'énigme-internet/Quête%20mystérieuse.pdf)
 
-Althogh, I'm focusing on Java, Bash and Python any other language could be used as well.
 
-List of available episodes:
-* 01-l'énigme-internet]
+Ps. All links and necessary dowaloadables are hosted in this repo files.
