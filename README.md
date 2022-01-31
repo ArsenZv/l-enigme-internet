@@ -1,6 +1,6 @@
-#L'énigme-internet
+# L'énigme-internet #
 
-This is the first episode of (Ihope to bea series) of internet riddles - l'énigme-internet wich I made initially for my fiance.
+This is the first episode of (Ihope to bea series) of internet riddles - l'énigme-internet wich was initially made for my bubble.
 
 The main purpose is to create fun and engaging way to practice programming and/or spend time with pleasure. 
 
